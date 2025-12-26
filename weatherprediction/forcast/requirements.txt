@@ -1,0 +1,6 @@
+django
+requests
+pandas
+numpy
+scikit-learn
+pytz

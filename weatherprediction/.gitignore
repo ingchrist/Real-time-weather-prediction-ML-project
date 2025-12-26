@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+myvenv/
+.venv/
+env/
+venv/
+ENV/
+
+# Databases
+db.sqlite3
+db.sqlite3-journal
+
+# ML / Data files
+# Keeping weather.csv is optional. If it's a large raw dataset, ignore it. 
+# If it's a small sample needed for the code to run, you can comment this out.
+weather.csv
+
+# Distribution / packaging
+node_modules/
+dist/
+build/
+*.egg-info/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
